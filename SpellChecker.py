@@ -1,6 +1,4 @@
 #Made By Damir Zababuryn
-#Marko Sudar
-#Marcos Castares
 #04/17/2023
 
 
